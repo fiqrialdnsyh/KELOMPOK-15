@@ -3,6 +3,12 @@
 Repositori ini berisi notebook dan analisis untuk Ujian Tengah Semester mata kuliah Penambangan Data, dengan fokus pada deteksi anomali dari dataset `Stok` dan `Pembelian`.
 
 ---
+## Anggota Kelompok 15
+* **Fiqri Aldiansyah** (122140152)
+* **Rustian Afencius Marbun** (122140155)
+* **A KEVIN SERGIAN** (122140125)
+
+---
 ## Deskripsi Proyek
 
 Proyek ini bertujuan untuk melakukan analisis data secara komprehensif untuk mengidentifikasi berbagai jenis anomali dalam sistem inventaris. Analisis mencakup dua dataset dengan format non-standar:
@@ -45,13 +51,13 @@ Berdasarkan temuan di atas, rekomendasi utama adalah:
 
 ---
 ## Cara Menjalankan
-1.  Pastikan Anda memiliki file `Dataset UTS - Stok.csv` dan `Dataset UTS - Pembelian.csv`.
-2.  Buka notebook `tugas_UTS.ipynb` di lingkungan Jupyter atau Google Colab.
-3.  Jika menggunakan Google Colab, jalankan sel pertama untuk menghubungkan Google Drive.
-4.  Sesuaikan path file di dalam notebook agar sesuai dengan lokasi dataset Anda.
+1.  Pastikan Anda memiliki file `Dataset UTS - Stok.csv` dan `Dataset UTS - Pembelian.csv` di Google Drive.
+2.  Buka notebook `tugas_UTS.ipynb` di Google Colab.
+3.  Jalankan sel pertama untuk menghubungkan Google Drive.
+4.  Pastikan path file di dalam notebook sudah benar.
 5.  Jalankan semua sel secara berurutan.
 
 ---
 ## Tautan Video Penjelasan
 Tautan video presentasi yang menjelaskan alur kerja dan temuan proyek ini dapat diakses di sini:
-* **https://drive.google.com/file/d/1kS8OZvwMu4KsQUY-zJsZ4XOiEwTsDXzI/view?usp=sharing**
+* **https://bit.ly/VideoTutorialDataMining**
